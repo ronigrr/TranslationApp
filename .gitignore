@@ -1,0 +1,28 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Others
+*.http
+*.DS_Store
+*.swp
+*.tmp
+
+# Configuration files (optional - only if you want to keep them local)
+appsettings.Development.json
